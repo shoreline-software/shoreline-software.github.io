@@ -1,6 +1,4 @@
-# Shoreline Software Limited
-
-Shoreline Software is a software development business based in Bristol, UK.
+# Shoreline Software
 
 We've worked, or are working on the following projects:
 
