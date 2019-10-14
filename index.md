@@ -2,6 +2,7 @@
 
 We've worked, or are working on the following projects:
 
+* [CoGo](https://cogo.co)
 * [Academic Bio](https://my.academic.bio)
 * [SwapMyVote](https://www.swapmyvote.uk)
 * [Rebo](https://reboapp.co.uk)
